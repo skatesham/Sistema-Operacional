@@ -1,0 +1,9 @@
+/etc/apt/sources.list
+
+deb http://10.66.55.232/debian squeeze main contrib non-free
+deb http://10.66.55.232/debian-security squeeze/updates main contrib non-free
+
+
+Máquinas Virtuais na Rede 10.66.55.X/16
+
+Gateway e DNS devem ser 10.66.55.232
